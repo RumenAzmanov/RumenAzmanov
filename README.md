@@ -1,4 +1,4 @@
-- Hi, I’m @VaudevilGrotesq
+- Hi, I’m Rumen
 - I’m currently studying Computer Science at SU FMI
 
 <!---
